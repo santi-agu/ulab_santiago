@@ -1,0 +1,25 @@
+Answers to problem 1
+
+1. The command that lets you see your absolute path is "pwd".
+2. The command is “ls”. Both the “patterns.txt” and “symmetry.py” files should show up.
+3. Typing "nano patterns.txt" will allow you to open up the file.
+4. Typing "cat patterns.txt" will allow you to print the file's contents.
+5. Typing in "diff patterns.txt symmetry.txt" will let you see the differences between the two files.
+6. mv patterns.txt ~/math/geometry/triangle.txt
+7. rm ~/math/geometry/triangle.txt
+8. cd ../math/
+9. git init
+10. git remote add origin git@github.com:santi_agu/math.git
+11. cp ~/music/ symmetry.txt .
+12. git status. Git is not currently tracking symmetry.txt, because it has not been added to the staging area.
+13. The first command is “git add symmetry.txt”, and the second is “git add .”
+14. Yes, git is tracking it.  To unstage the file, type “git reset symmetry.txt”
+15. git commit -m “Copied symmetry.txt from music directory”
+16. git push origin main. The branch you should push to is the main branch, since it is the only branch that exists at the moment.
+17. git branch applied_math
+18. git checkout applied_math
+19. “git add .”, then “git commit -m “Added physics directory and mechanics.txt.”, and finally “git push origin applied_math”. Changing branches before committing will make you lose all your progress. 
+20. To see all branches, type in "git branch". The branch in green is the current branch.
+21. git checkout main
+22. git merge applied_math
+23. Screenshot is in another file
