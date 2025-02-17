@@ -1,0 +1,76 @@
+,0
+pl_name,eps Ind A b
+hostname,eps Ind A
+default_flag,1
+sy_snum,3
+sy_pnum,1
+discoverymethod,Radial Velocity
+disc_year,2019
+disc_facility,La Silla Observatory
+soltype,Published Confirmed
+pl_controv_flag,0
+pl_refname,<a refstr=MATTHEWS_ET_AL__2024 href=https://www.nature.com/articles/s41586-024-07837-8 target=ref>Matthews et al. 2024</a>
+pl_orbsmax,28.4
+pl_orbsmaxerr1,10.0
+pl_orbsmaxerr2,-7.2
+pl_orbsmaxlim,0.0
+pl_bmasse,2005.49725
+pl_bmasseerr1,190.69704
+pl_bmasseerr2,-177.98391
+pl_bmasselim,0.0
+pl_bmassj,6.31
+pl_bmassjerr1,0.6
+pl_bmassjerr2,-0.56
+pl_bmassjlim,0.0
+pl_bmassprov,Mass
+pl_orbeccen,0.4
+pl_orbeccenerr1,0.15
+pl_orbeccenerr2,-0.18
+pl_orbeccenlim,0.0
+pl_eqt,275.0
+pl_eqtlim,0.0
+ttv_flag,0
+st_refname,<a refstr=MATTHEWS_ET_AL__2024 href=https://www.nature.com/articles/s41586-024-07837-8 target=ref>Matthews et al. 2024</a>
+st_spectype,K5 V
+st_teff,4760.0
+st_tefferr1,15.0
+st_tefferr2,-15.0
+st_tefflim,0.0
+st_rad,0.68
+st_raderr1,0.0
+st_raderr2,0.0
+st_radlim,0.0
+st_mass,0.76
+st_masserr1,0.04
+st_masserr2,-0.04
+st_masslim,0
+st_met,0.22
+st_meterr1,0.12
+st_meterr2,-0.12
+st_metlim,0.0
+st_metratio,[Fe/H]
+st_logg,5.25
+st_loggerr1,0.18
+st_loggerr2,-0.34
+st_logglim,0.0
+sy_refname,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>
+rastr,22h03m29.14s
+ra,330.8714021
+decstr,-56d47m48.85s
+dec,-56.7969023
+sy_dist,3.63857
+sy_disterr1,0.00333
+sy_disterr2,-0.00333
+sy_vmag,4.69
+sy_vmagerr1,0.03
+sy_vmagerr2,-0.03
+sy_kmag,2.237
+sy_kmagerr1,0.24
+sy_kmagerr2,-0.24
+sy_gaiamag,4.34562
+sy_gaiamagerr1,0.007374
+sy_gaiamagerr2,-0.007374
+rowupdate,2024-08-07
+pl_pubdate,2024-07
+releasedate,2024-08-07
+Age,"3.5 Gy, +0.8 -1.3"
